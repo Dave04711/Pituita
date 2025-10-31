@@ -18,7 +18,7 @@ Meanwhile, the **aliens** (hiders) must remain undetected **and** complete **tas
 Aliens can perform a **dash**, allowing them to quickly reposition in their base form.  
 They can also **morph into props**, blending into the surroundings to hide from hunters.
 
-> [Insert transformation GIF here]
+![Morph](mor.gif)
 
 ### Unique Alien Traits (for each character):
 - Faster task completion ⏩  
@@ -28,6 +28,8 @@ They can also **morph into props**, blending into the surroundings to hide from 
 ---
 
 ## 🎯 Hunter Gadgets
+
+![Astro](astro.png)
 
 Hunters rely on specialized gadgets to **counter alien behavior** and **detect disguised enemies**.
 
@@ -53,7 +55,7 @@ Captured aliens can be rescued by their **teammates** if left unattended for too
 
 The game uses a **comic-inspired aesthetic**, achieved through **custom shaders** and **render passes**.
 
-> [Insert side-by-side shader comparison image here]
+![Visuals](2.png)
 
 ---
 
